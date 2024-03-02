@@ -8,7 +8,21 @@
 
 ###
 
-<p align="left">👩‍💻 About Me<br>Hello! I'm Krish Kahnani, a second-year CSE student at IIIT, Guwahati<br><br><br>- 🔭 I’m passionate about Android development and currently exploring the realms of machine learning.<br>- 📚 Do reach out to me if you have a project idea where I can contribute.<br>- ⚡I have a vivid interest in Computer Vision models.</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/krish-kahnani-48115124b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/457671293756768257" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/raa.ta.ta/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">👩‍💻 About Me<br>Hello! I'm Krish Kahnani, a second-year CSE student at IIIT, Guwahati<br><br><br><br>- 🔭 I’m passionate about Android development and currently exploring the realms of machine learning.<br>- 📚 Do reach out to me if you have a project idea where I can contribute.<br>- ⚡I have a vivid interest in Computer Vision models.</p>
 
 ###
 
