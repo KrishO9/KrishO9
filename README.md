@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">👩‍💻 About Me<br>Hello! I'm Krish Kahnani, a second-year CSE student at IIIT, Guwahati<br><br>- 🔭 I’m passionate about Android development and currently exploring the realms of machine learning.<br>- 📚 Do reach out to me if you have a project idea where I can contribute.<br>- ⚡I have a vivid interest in Computer Vision models.</p>
+<p align="left">👩‍💻 About Me<br>Hello! I'm Krish Kahnani, a second-year CSE student at IIIT, Guwahati</p>
 
 ###
 
