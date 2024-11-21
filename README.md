@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">👩‍💻 About Me<br>Hello! I'm Krish Kahnani, a second-year CSE student at IIIT, Guwahati</p>
+<p align="left">👩‍💻 About Me<br>Hello! I'm Krish Kahnani, a Computer Science major at IIIT, Guwahati</p>
 
 ###
 
